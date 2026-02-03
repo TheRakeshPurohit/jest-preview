@@ -74,13 +74,18 @@ const config = {
             label: 'Demo',
             position: 'left',
           },
+          {
+            href: 'https://app.codecrafters.io/join?via=nvh95',
+            label: 'Perks',
+            position: 'left',
+          },
           // TODO: To add as a blog
           // { to: '/contributors', label: 'Contributors', position: 'left' },
-          {
-            href: 'https://forms.gle/PJFH5oEzi7gsb7Ac6',
-            label: 'Feedback',
-            position: 'right',
-          },
+          // {
+          //   href: 'https://forms.gle/PJFH5oEzi7gsb7Ac6',
+          //   label: 'Feedback',
+          //   position: 'right',
+          // },
           {
             href: 'https://github.com/nvh95/jest-preview',
             label: 'GitHub',
@@ -91,11 +96,11 @@ const config = {
             label: 'npm',
             position: 'right',
           },
-          {
-            href: 'https://discord.gg/z4DRBmk7vx',
-            label: 'Discord',
-            position: 'right',
-          },
+          // {
+          //   href: 'https://discord.gg/z4DRBmk7vx',
+          //   label: 'Discord',
+          //   position: 'right',
+          // },
           {
             type: 'dropdown',
             label: '🌎 Languages',
@@ -157,10 +162,10 @@ const config = {
                 label: `Hung's Twitter`,
                 href: 'https://twitter.com/hung_dev',
               },
-              {
-                label: 'Discord',
-                href: 'https://discord.gg/z4DRBmk7vx',
-              },
+              // {
+              //   label: 'Discord',
+              //   href: 'https://discord.gg/z4DRBmk7vx',
+              // },
             ],
           },
           {
@@ -170,9 +175,12 @@ const config = {
                 label: 'GitHub',
                 href: 'https://github.com/nvh95/jest-preview',
               },
-
               {
-                html: `<a href="https://www.netlify.com"> <img src="https://www.netlify.com/v3/img/components/netlify-color-bg.svg" alt="Deploys by Netlify" /> </a>`,
+                label: 'Perks',
+                href: 'https://app.codecrafters.io/join?via=nvh95',
+              },
+              {
+                html: `<a href="https://www.netlify.com"> <img src="https://www.netlify.com/assets/badges/netlify-badge-color-accent.svg" alt="Deploys by Netlify" /> </a>`,
               },
             ],
           },

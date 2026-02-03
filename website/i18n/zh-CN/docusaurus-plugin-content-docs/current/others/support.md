@@ -8,4 +8,4 @@ sidebar_position: 3
 
 如果你想进行更多讨论或建议，你也可以在 Twitter 上提及 [@JestPreview](https://twitter.com/JestPreview) 或 [@hung_dev](https://twitter.com/hung_dev) 。
 
-我们还有一个 Discord 服务器：[![Discord](https://img.shields.io/discord/967456149735637002?logo=discord&logoColor=ffffff&style=flat-square)](https://discord.gg/z4DRBmk7vx)
+<!-- 我们还有一个 Discord 服务器：[![Discord](https://img.shields.io/discord/967456149735637002?logo=discord&logoColor=ffffff&style=flat-square)](https://discord.gg/z4DRBmk7vx) -->
